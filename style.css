@@ -1,0 +1,153 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.top-head{
+    width: 100%;
+    height: 50px;
+    background-color: #f87185;
+}
+
+.top-head-text{
+    color: white;
+    font-size: 30px;
+    font-weight: 600;
+    text-transform: uppercase;
+    text-align: center;
+    padding-top: 3px;
+}
+
+.nav-link{
+    color: white;
+    font-weight: 500;
+}
+
+/* .d-flex{
+    margin-right: 30rem!important;
+} */
+
+#carouselExampleIndicators{
+    margin-top: 20px;
+}
+
+.carousel-indicators [data-bs-target]{
+    background-color: #cf102d;
+}
+
+.banner{
+    width: 75%;
+    margin: auto;
+    display: block;
+    padding-top: 20px;
+}
+
+
+
+.card-container{
+    width: 100%;
+    height: 1350px;
+    background-color: #cf102d;
+    margin-top: 20px;
+}
+
+.inside-card-container{
+    width: 80%;
+    height: 600px;
+    background-color: #fff;
+    position: relative;
+    top: 5%;
+    left: 10%;
+
+}
+
+.row{
+    width: 65%;
+    position: absolute;
+    left: 19%;
+    top: 1175px;
+}
+
+.inside-card-container2{
+    width: 80%;
+    height: 600px;
+    background-color: #fff;
+    position: absolute;
+    top: 287%;
+    left: 10%;
+}
+
+
+#row2{
+    width: 65%;
+    position: absolute;
+    left: 19%;
+    top: 297%;
+}
+
+h2.sellers{
+    text-align: right;
+    display: inline-block;
+    position: absolute;
+    left: 42%;
+    top: 173%;
+    color: white;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.sticky-top{
+    box-shadow: 0 4px 8px;
+}
+
+.age_container{
+    width: 100%;
+    height: 320px;
+    background-color: #cf102d;
+    margin-top: 20px;
+}
+
+.age_inside_container{
+    width: 80%;
+    height: 200px;
+    background-color: #fff;
+    margin-top: 80px;
+    position: absolute;
+    left: 10%;
+
+}
+
+.age_inside_container p{
+    text-align: center;
+    position: absolute;
+    top: -28%;
+    left: 40%;
+    color: #fff;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+#age_section{
+    margin-left: 90px;
+}
+
+.age{
+    width: 230px;
+    padding: 10px;
+}
+
+.card-btn{
+    margin-left: 120px;
+    margin-top: 7px;
+}
+
+a.btn.card-btn{
+    width: 60px;
+    height: 35px;
+    background-color: #cf102d;
+    color: #fff;
+}
+
+
