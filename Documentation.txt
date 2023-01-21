@@ -1,0 +1,9 @@
+Myself Pranay G Bendre. This project was told to made by ItVedant as a final project.
+I started making a travel website but then changed my idea to make a Toy Store website.
+I got this idea from my son as he likes the toys and we usually shop online.
+Then I started taking references. My first reference was Hamleys and Winmagic website 
+and then ideas just started coming to my mind and I started building up.
+My biggest problem is I'm unable to validate the form layout properly. 
+It is working but the layout is not right.
+I hope you like my project.
+Thank You. 
